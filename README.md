@@ -11,8 +11,8 @@ https://github.com/Goro-K/codecrafters-http-server-python
 
 **Exemple du rendu final dans le terminal**    
 
-Enter the IP address: 127.0.0.1
-Scanning host: localhost
+Enter the IP address: 127.0.0.1         
+Scanning host: localhost        
 Port 80 is open     
 Port 631 is open        
 Port 3306 is open         
